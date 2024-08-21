@@ -58,13 +58,13 @@ const perguntas = [
                 texto:"Não, sou contra o movimento racista",
                 afirmacao: [
                     "que legal! concordamos que o racismo não é uma coisa boa ",
-                    "afirmacao 2"
+       ;             "afirmacao 2"
                     ]
             }
             
         ]
     },
-];
+]
 
 let atual = 0; 
 let perguntaAtual;
@@ -102,5 +102,7 @@ function mostraResultado(){
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = ""; 
 }
+funcition aleatorio()()
 
+)
 mostraPergunta();
